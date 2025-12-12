@@ -38,10 +38,15 @@ No cloud APIs required — everything works locally.
 # File Structure
 Jarvis/
 │
-├── jarvis.py             # Main assistant loop
+
+├── jarvis.py              # Main assistant loop
+
 ├── commands.py           # Command handler logic
+
 ├── recognizer.py         # Speech-to-text functions
+
 ├── tts_engine.py         # TTS wrapper
+
 └── README.md
 
 # Running Jarvis
@@ -56,3 +61,4 @@ Add system control (brightness, volume, apps)
 Add LLM-based conversational mode
 Add reminders or calendar integration
 Add noise-reduction for better accuracy
+
