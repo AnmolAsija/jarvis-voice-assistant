@@ -1,12 +1,13 @@
 # Jarvis: A Voice-Activated Personal Desktop Assistant
 
 Jarvis started as a simple idea:
+
 “Can I automate my laptop with my voice?”
 
 This project explores that idea by building a lightweight voice-controlled assistant using Python.
 It listens, responds, and performs tasks—without relying on cloud APIs or external AI models.
 
-#Why I Built This
+# Why I Built This
 I wanted a hands-free way to open websites, search online, and trigger simple actions.
 Tools like Alexa are great, but integrating them with a PC is complex.
 So I created Jarvis, a small but extensible assistant powered entirely by local Python libraries.
@@ -61,4 +62,5 @@ Add system control (brightness, volume, apps)
 Add LLM-based conversational mode
 Add reminders or calendar integration
 Add noise-reduction for better accuracy
+
 
